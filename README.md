@@ -4,4 +4,4 @@
 yfinance api stock picker (and backtest script)\
 also uses alpaca api\
 \
-losses guaranteed
+for novelty purposes only--losses guaranteed ;)
